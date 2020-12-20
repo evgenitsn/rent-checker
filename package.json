@@ -1,0 +1,21 @@
+{
+  "name": "lambda-rent",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-eslint": "^10.1.0",
+    "chrome-aws-lambda": "^5.5.0",
+    "eslint": "^7.15.0",
+    "serverless": "^2.15.0",
+    "puppeteer": "^5.5.0",
+    "dotenv": "^8.2.0"
+  },
+  "dependencies": {}
+}
